@@ -142,6 +142,22 @@ body {
         padding-left: 1em;
     }
 
+    .inner a {
+      &:active, &:focus {
+        background-image: none;
+        outline: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+      }
+    }
+	
+  &.active .inner a {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
     @media #{$mq-phone} {
         float: left;
         font-size: 1em;

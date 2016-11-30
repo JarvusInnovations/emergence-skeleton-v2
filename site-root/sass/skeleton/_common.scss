@@ -30,6 +30,11 @@ body {
         background: rgba(mix($accent-color, $text-color), .08);
         border: 1px solid rgba($base-color, .3);
         clear: both;
+	position: absolute;
+	margin-bottom: 0px;
+	bottom: 0px;
+	width: 100%;
+	background-color: #E4EBEE;
     }
 
     &.header {

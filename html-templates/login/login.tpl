@@ -35,6 +35,7 @@
         <fieldset class="shrink">
             {loginField}
             {passwordField}
+            {rememberMeField}
             
             <div class="submit-area">
                 <input type="submit" value="Log In">

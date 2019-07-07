@@ -1,5 +1,6 @@
 [holomapping]
 files = [
     "*/**",
-    "!event-handlers/RegistrationRequestHandler/**"
+    "!event-handlers/RegistrationRequestHandler/**",
+    "!php-config/Git.config.d/*"
 ]

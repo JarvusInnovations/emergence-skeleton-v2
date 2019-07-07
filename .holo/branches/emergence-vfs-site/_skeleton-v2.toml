@@ -1,0 +1,3 @@
+[holomapping]
+files = "*/**"
+after = "vfs-skeleton-v1"

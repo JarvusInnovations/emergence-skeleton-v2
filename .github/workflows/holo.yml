@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Update emergence/skeleton/v2 holobranch
-      uses: JarvusInnovations/hologit@actions/projector/v2
+      uses: JarvusInnovations/hologit@actions/projector/v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         HAB_LICENSE: accept
@@ -22,7 +22,7 @@ jobs:
         holobranch: emergence-skeleton
         commit-to: emergence/skeleton/v2
     - name: Update emergence/vfs-site/v2 holobranch
-      uses: JarvusInnovations/hologit@actions/projector/v2
+      uses: JarvusInnovations/hologit@actions/projector/v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         HAB_LICENSE: accept

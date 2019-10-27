@@ -28,7 +28,7 @@ jobs:
         ref: releases/v2
         holobranch: emergence-vfs-site
         commit-to: emergence/vfs-site/v2
-    - name: 'Update skeleton-v1.emr.ge'
+    - name: 'Update skeleton-v2.emr.ge'
       env:
         VFS_DEV_TOKEN: ${{ secrets.VFS_DEV_TOKEN }}
       run: |

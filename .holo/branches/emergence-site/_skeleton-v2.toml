@@ -1,6 +1,6 @@
 [holomapping]
 files = [
     "*/**",
-    ".github/"
+    "!.github/"
 ]
 after = "skeleton-v1"

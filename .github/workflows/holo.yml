@@ -37,7 +37,7 @@ jobs:
           --silent \
           -H "Authorization: Token ${VFS_DEV_TOKEN}" \
           -H "Accept: application/json" \
-          "http://skeleton-v2.emr.ge/site-admin/sources/emergence-skeleton-v2/pull" \
+          "http://skeleton-v2.emr.ge/site-admin/sources/emergence-skeleton-v2/pull?fetch=true" \
           | jq '.'
 
         # sync VFS to git

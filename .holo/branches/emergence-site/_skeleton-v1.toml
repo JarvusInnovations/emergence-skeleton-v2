@@ -1,6 +1,7 @@
 [holomapping]
 files = [
     "**",
+
+    # superceded by skeleton-v2 at event-handlers/Emergence/People/RegistrationRequestHandler
     "!event-handlers/RegistrationRequestHandler/**",
-    "!php-config/Git.config.d/*"
 ]

@@ -6,5 +6,6 @@ files = [
     "!.github/",
     "!.vscode/",
     "!php-config/Git.config.d/",
+    "!script/",
 ]
 after = "*"

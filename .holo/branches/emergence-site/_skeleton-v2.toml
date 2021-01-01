@@ -1,8 +1,10 @@
 [holomapping]
 files = [
     "*/**",
+
+    # exclude CI and developer assets
     "!.github/",
     "!.vscode/",
     "!php-config/Git.config.d/",
 ]
-after = "skeleton-v1"
+after = "*"

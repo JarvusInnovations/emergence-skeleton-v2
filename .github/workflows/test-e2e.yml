@@ -24,7 +24,7 @@ jobs:
       env:
         HAB_NGINX: |
           [http.listen]
-          port = 7080
+          port = 7180
         HAB_MYSQL: |
           app_username = 'appadmin'
           app_password = 'appadmin'

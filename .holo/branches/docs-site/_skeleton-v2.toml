@@ -1,2 +1,5 @@
 [holomapping]
-files = "docs/**"
+files = [
+    "docs/**",
+    "mkdocs.*.yml"
+]

@@ -1,5 +1,5 @@
 {
-    "baseUrl": "http://localhost:7080",
+    "baseUrl": "http://localhost:7180",
     "env": {
         "STUDIO_CONTAINER": "skeleton-v2-studio"
     }

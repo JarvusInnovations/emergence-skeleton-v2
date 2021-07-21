@@ -18,9 +18,10 @@ echo "==> studio: configuring Chef Habitat studio Docker options…"
 STUDIO_NAME="${STUDIO_NAME:-skeleton-v2-studio}"
 export HAB_DOCKER_OPTS="
     --name ${STUDIO_NAME}
-    -p 7080:80
-    -p 7088:8000
-    -p 7036:3306
+    -p 7180:80
+    -p 7181:7081
+    -p 7188:8000
+    -p 7136:3306
     -v $(cd ~/.ssh; pwd)/known_hosts:/root/.ssh/known_hosts:ro
     --env STUDIO_DEVELOPER_UID=$(id -u)
     --env STUDIO_DEVELOPER_GID=$(id -g)

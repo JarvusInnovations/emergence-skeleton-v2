@@ -2,15 +2,19 @@
     "selectors": {
         "gallery-photo": ".available-photos .photo-item",
         "gallery-photo-first": ".available-photos .photo-item:first-of-type",
-        "gallery-default-link": "a[title=\"Make Default\"][href^=\"/profile/primaryPhoto?\"]",
-        "profile-view-photo-last": ".photo-thumb:last-of-type"
+        "gallery-default-link": "a[title=\"Make Default\"][href^=\"/profile/primaryPhoto?\"]"
     },
     "values": {
         "gallery-photo-selected-class": "current",
         "profile-markdown-link-text": "Markdown",
         "profile-markdown-link-href": "https://www.markdownguide.org/cheat-sheet",
         "profile-save-button-text": "Save Profile",
-        "profile-data-class": "Emergence\\People\\User",
-        "profile-photo-last-href": "/thumbnail/2/1024x768"
+        "profile-data": {
+            "Class": "Emergence\\People\\User",
+            "FirstName": "Regular",
+            "LastName": "User",
+            "Username": "user",
+            "AccountLevel": "User"
+        }
     }
 }

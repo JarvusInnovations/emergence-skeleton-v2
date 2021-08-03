@@ -5,6 +5,7 @@ files = [
     # exclude CI and developer assets
     "!.github/",
     "!.vscode/",
+    "!cypress/",
     "!php-config/Git.config.d/",
     "!script/",
 ]

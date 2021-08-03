@@ -2,7 +2,8 @@
     "selectors": {
         "gallery-photo": ".available-photos .photo-item",
         "gallery-photo-first": ".available-photos .photo-item:first-of-type",
-        "gallery-default-link": "a[title=\"Make Default\"][href^=\"/profile/primaryPhoto?\"]"
+        "gallery-default-link": "a[title=\"Make Default\"][href^=\"/profile/primaryPhoto?\"]",
+        "about-content": "#info .about"
     },
     "values": {
         "gallery-photo-selected-class": "current",
@@ -16,5 +17,9 @@
             "Username": "user",
             "AccountLevel": "User"
         }
+    },
+    "features": {
+        "location": true,
+        "gallery": true
     }
 }

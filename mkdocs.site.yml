@@ -1,13 +1,2 @@
 site_name: Skeleton V2 Docs
-repo_url: https://github.com/JarvusInnovations/emergence-skeleton-v2
 site_url: https://jarvusinnovations.github.io/emergence-skeleton-v2
-
-extra:
-  repository:
-    name: emergence-skeleton-v2
-    url: git@github.com:JarvusInnovations/emergence-skeleton-v2.git
-  studio:
-    web_port: 7180
-    static_port: 7181
-    docs_port: 7188
-    mysql_port: 7136

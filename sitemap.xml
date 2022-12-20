@@ -2,147 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/email/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/migrations/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/api-docs/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/console-commands/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/cypress/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/data-exporters/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/docs/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/dwoo-plugins/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/event-handlers/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/fixtures/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/helm-chart/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/html-templates/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/php-classes/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/php-config/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/php-migrations/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/phpunit-tests/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/sencha-workspace/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/site-root/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/filesystem-api/site-tasks/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/running-tests/e2e/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/running-tests/fixtures/</loc>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/workspace-setup/content-editor/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/workspace-setup/local-studio/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/development/workspace-setup/virtual-multisite/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/getting-started/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/operations/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://jarvusinnovations.github.io/emergence-skeleton-v2/usage/</loc>
-         <lastmod>2022-10-15</lastmod>
+         <lastmod>2022-12-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
